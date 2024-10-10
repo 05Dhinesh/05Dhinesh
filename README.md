@@ -1,7 +1,7 @@
 
 # Hello y'all
 
-This is **Dinesh**, Really interested in Hardware & Robotics
+This is **Dhinesh**, Really interested in Hardware & Robotics
 
 - 👀 I’m interested in Drone programming & Ariel Robotics
 - 🌱 I’m currently learning Iot & PCB designs 
